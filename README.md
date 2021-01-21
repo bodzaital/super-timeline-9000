@@ -1,4 +1,4 @@
-# super-timeline-9000
+# Super Timeline 9000
 Just another timeline plugin for Wordpress.
 
 A plugin to create basic timelines that can be added to pages or posts by a shortcode. Is it janky? Yes. Does it work? I think so. I don't guarantee anything, there could be any kind of bugs.
